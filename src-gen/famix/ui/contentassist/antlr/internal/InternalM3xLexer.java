@@ -2300,10 +2300,10 @@ public class InternalM3xLexer extends Lexer {
         try {
             int _type = T__112;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:112:8: ( 'isVirtual' )
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:112:10: 'isVirtual'
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:112:8: ( 'isPackage' )
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:112:10: 'isPackage'
             {
-            match("isVirtual"); 
+            match("isPackage"); 
 
 
             }
@@ -2321,10 +2321,10 @@ public class InternalM3xLexer extends Lexer {
         try {
             int _type = T__113;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:113:8: ( 'isConstructor' )
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:113:10: 'isConstructor'
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:113:8: ( 'isVirtual' )
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:113:10: 'isVirtual'
             {
-            match("isConstructor"); 
+            match("isVirtual"); 
 
 
             }
@@ -2342,10 +2342,10 @@ public class InternalM3xLexer extends Lexer {
         try {
             int _type = T__114;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:114:8: ( 'isPureAccessor' )
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:114:10: 'isPureAccessor'
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:114:8: ( 'isConstructor' )
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:114:10: 'isConstructor'
             {
-            match("isPureAccessor"); 
+            match("isConstructor"); 
 
 
             }
@@ -2363,10 +2363,10 @@ public class InternalM3xLexer extends Lexer {
         try {
             int _type = T__115;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:115:8: ( 'isPackage' )
-            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:115:10: 'isPackage'
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:115:8: ( 'isPureAccessor' )
+            // ../famix.m3x.ui/src-gen/famix/ui/contentassist/antlr/internal/InternalM3x.g:115:10: 'isPureAccessor'
             {
-            match("isPackage"); 
+            match("isPureAccessor"); 
 
 
             }
@@ -5130,12 +5130,12 @@ public class InternalM3xLexer extends Lexer {
         "\1\176\1\u0087\33\uffff\1\u0092\12\uffff\1\126\1\uffff\1\143\6\uffff"+
         "\1\u0086\1\116\3\uffff\1\20\1\uffff\1\u0083\1\u0091\17\uffff\1\u0089"+
         "\5\uffff\1\u0088\1\uffff\1\117\1\uffff\1\141\1\uffff\1\2\13\uffff"+
-        "\1\145\1\151\1\146\3\uffff\1\122\20\uffff\1\135\4\uffff\1\u0082"+
+        "\1\145\1\146\1\147\3\uffff\1\122\20\uffff\1\135\4\uffff\1\u0082"+
         "\2\uffff\1\u0093\1\u0085\3\uffff\1\140\1\uffff\1\u0090\1\uffff\1"+
         "\76\6\uffff\1\u008f\1\u008d\4\uffff\1\163\21\uffff\1\121\1\uffff"+
         "\1\27\4\uffff\1\144\23\uffff\1\70\4\uffff\1\1\2\uffff\1\u0081\30"+
-        "\uffff\1\125\1\uffff\1\3\3\uffff\1\147\30\uffff\1\142\2\uffff\1"+
-        "\150\37\uffff\1\132\1\123\65\uffff\1\34\1\uffff\1\106\1\133\45\uffff"+
+        "\uffff\1\125\1\uffff\1\3\3\uffff\1\150\30\uffff\1\142\2\uffff\1"+
+        "\151\37\uffff\1\132\1\123\65\uffff\1\34\1\uffff\1\106\1\133\45\uffff"+
         "\1\33\6\uffff\1\127\1\130\1\173\45\uffff\1\134\6\uffff\1\100\20"+
         "\uffff\1\171\37\uffff\1\73\2\uffff\1\25\14\uffff\1\131\1\uffff\1"+
         "\124\1\u008e\1\30\2\uffff\1\22\7\uffff\1\101\4\uffff\1\103\2\uffff"+

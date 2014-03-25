@@ -632,11 +632,11 @@ public class M3xParser extends AbstractContentAssistParser {
 					put(grammarAccess.getMethodAccess().getIsPublicAssignment_13_2(), "rule__Method__IsPublicAssignment_13_2");
 					put(grammarAccess.getMethodAccess().getIsProtectedAssignment_14_2(), "rule__Method__IsProtectedAssignment_14_2");
 					put(grammarAccess.getMethodAccess().getIsPrivateAssignment_15_2(), "rule__Method__IsPrivateAssignment_15_2");
-					put(grammarAccess.getMethodAccess().getIsVirtualAssignment_16_2(), "rule__Method__IsVirtualAssignment_16_2");
-					put(grammarAccess.getMethodAccess().getIsConstructorAssignment_17_2(), "rule__Method__IsConstructorAssignment_17_2");
-					put(grammarAccess.getMethodAccess().getIsPureAccessorAssignment_18_2(), "rule__Method__IsPureAccessorAssignment_18_2");
-					put(grammarAccess.getMethodAccess().getIsAbstractAssignment_19_2(), "rule__Method__IsAbstractAssignment_19_2");
-					put(grammarAccess.getMethodAccess().getIsPackageAssignment_20_2(), "rule__Method__IsPackageAssignment_20_2");
+					put(grammarAccess.getMethodAccess().getIsPackageAssignment_16_2(), "rule__Method__IsPackageAssignment_16_2");
+					put(grammarAccess.getMethodAccess().getIsVirtualAssignment_17_2(), "rule__Method__IsVirtualAssignment_17_2");
+					put(grammarAccess.getMethodAccess().getIsConstructorAssignment_18_2(), "rule__Method__IsConstructorAssignment_18_2");
+					put(grammarAccess.getMethodAccess().getIsPureAccessorAssignment_19_2(), "rule__Method__IsPureAccessorAssignment_19_2");
+					put(grammarAccess.getMethodAccess().getIsAbstractAssignment_20_2(), "rule__Method__IsAbstractAssignment_20_2");
 					put(grammarAccess.getMethodAccess().getATFDAssignment_21_2(), "rule__Method__ATFDAssignment_21_2");
 					put(grammarAccess.getMethodAccess().getALDAssignment_22_2(), "rule__Method__ALDAssignment_22_2");
 					put(grammarAccess.getMethodAccess().getCYCLOAssignment_23_2(), "rule__Method__CYCLOAssignment_23_2");
