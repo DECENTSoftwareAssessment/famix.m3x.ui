@@ -638,9 +638,9 @@ public class M3xParser extends AbstractContentAssistParser {
 					put(grammarAccess.getMethodAccess().getIsPackageAssignment_16_2(), "rule__Method__IsPackageAssignment_16_2");
 					put(grammarAccess.getMethodAccess().getIsFinalAssignment_17_2(), "rule__Method__IsFinalAssignment_17_2");
 					put(grammarAccess.getMethodAccess().getIsVirtualAssignment_18_2(), "rule__Method__IsVirtualAssignment_18_2");
-					put(grammarAccess.getMethodAccess().getIsConstructorAssignment_19_2(), "rule__Method__IsConstructorAssignment_19_2");
-					put(grammarAccess.getMethodAccess().getIsPureAccessorAssignment_20_2(), "rule__Method__IsPureAccessorAssignment_20_2");
-					put(grammarAccess.getMethodAccess().getIsAbstractAssignment_21_2(), "rule__Method__IsAbstractAssignment_21_2");
+					put(grammarAccess.getMethodAccess().getIsAbstractAssignment_19_2(), "rule__Method__IsAbstractAssignment_19_2");
+					put(grammarAccess.getMethodAccess().getIsConstructorAssignment_20_2(), "rule__Method__IsConstructorAssignment_20_2");
+					put(grammarAccess.getMethodAccess().getIsPureAccessorAssignment_21_2(), "rule__Method__IsPureAccessorAssignment_21_2");
 					put(grammarAccess.getMethodAccess().getATFDAssignment_22_2(), "rule__Method__ATFDAssignment_22_2");
 					put(grammarAccess.getMethodAccess().getALDAssignment_23_2(), "rule__Method__ALDAssignment_23_2");
 					put(grammarAccess.getMethodAccess().getCYCLOAssignment_24_2(), "rule__Method__CYCLOAssignment_24_2");
